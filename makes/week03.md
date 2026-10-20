@@ -1,8 +1,11 @@
 # Week 3 – Selfie & Identity
 
+**Name:** Jaylyn
+
 ## The Artifact
-Describe or embed your artifact here.
-Include images, links, or media as appropriate.
+![IShowSpeed "I need this" Meme Artifact](speed_i_need_this_meme.gif)
+
+An animated meme recreating the viral IShowSpeed "Please Speed, I need this..." moment using my selfie, featuring progressive zooming, laughter tremors, and dynamic dialogue subtitles.
 
 ## Process Notes
 How did you make this?
